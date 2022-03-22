@@ -21,7 +21,7 @@ IR sensor module gets data from the LED of each sensor. The two motors rotate to
 
 
 ## Product 
-![Robot] (/product.jpg)
+![Robot] (product.jpg)
 
 
 
